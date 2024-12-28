@@ -41,7 +41,7 @@ console.log("food: " + food)
 
 // **** Challenge 1 : Part 2 **** 
 // Declare an array named numbers with 5 numbers.
-
+let numbers = [2, 3,4 ,5 , 34]
 
 console.log("numbers: " + numbers)   
 
